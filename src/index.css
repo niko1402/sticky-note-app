@@ -5,6 +5,7 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: #d0dece;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -44,6 +45,7 @@ textarea {
   flex-grow: 1;
   max-width: 300px;
   font-style: italic;
+  background-color: #dde4e4;
 }
 
 .add-new {
@@ -51,7 +53,7 @@ textarea {
   cursor: pointer;
   padding: 8px;
   font-weight: bolder;
-  background-color: #eee;
+  background-color: #718f94;
   outline: none;
 }
 
@@ -60,7 +62,7 @@ textarea {
   width: 200px;
   height: 200px;
   margin: 10px;
-  background-color: lightblue;
+  background-color: #718f94;
   border: 1px solid grey;
   box-shadow: 2px 2px 3px lightgrey;
   border-radius: 5px;
@@ -92,7 +94,7 @@ textarea {
   top: 0px;
   right: 0px;
   font-size: 20px;
-  color: darkcyan;
+  color: #d0dece;
   padding: 5px;
 }
 
