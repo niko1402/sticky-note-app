@@ -5,7 +5,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #d0dece;
+  background-color: teal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -26,6 +26,7 @@ textarea {
 .app-header__title {
   margin: 10px 20px 0px;
   font-family: Arial, sans-serif;
+  color: antiquewhite;
 }
 
 .app-header__controls {
@@ -53,7 +54,7 @@ textarea {
   cursor: pointer;
   padding: 8px;
   font-weight: bolder;
-  background-color: #718f94;
+  background-color: antiquewhite;
   outline: none;
 }
 
@@ -62,7 +63,7 @@ textarea {
   width: 200px;
   height: 200px;
   margin: 10px;
-  background-color: #718f94;
+  background-color: antiquewhite;
   border: 1px solid grey;
   box-shadow: 2px 2px 3px lightgrey;
   border-radius: 5px;
@@ -94,7 +95,7 @@ textarea {
   top: 0px;
   right: 0px;
   font-size: 20px;
-  color: #d0dece;
+  color: olive;
   padding: 5px;
 }
 
